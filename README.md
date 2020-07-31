@@ -21,6 +21,7 @@ Agile software development - Based on our combined effort in developing software
 
 # Demo
 Checkout a live demo here!
+https://gllil.github.io/rvm-grp-proj-1/
 
 
 # License
